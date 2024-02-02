@@ -16,7 +16,7 @@ const [userData, setUserData] = useState({
 });
 
   return (
-    <div className="App">
+    <div className="App" style={{width:'700px'}}>
       <BarChart chartData={userData}/>
     </div>
   );
