@@ -1,0 +1,53 @@
+
+
+export const UserData = [
+    {
+        id:1,
+        year:2016,
+        userGain:80000,
+        userLost:823,
+    },
+    {
+        id:2,
+        year:2017,
+        userGain:45677,
+        userLost:223,
+    },
+    {
+        id:3,
+        year:2018,
+        userGain:10548,
+        userLost:82563,
+    },
+    {
+        id:4,
+        year:2019,
+        userGain:65700,
+        userLost:1023,
+    },
+    {
+        id:5,
+        year:2020,
+        userGain:145000,
+        userLost:9523,
+    },
+    {
+        id:6,
+        year:2021,
+        userGain:185000,
+        userLost:993,
+    },
+    {
+        id:7,
+        year:2022,
+        userGain:55555,
+        userLost:555,
+    },
+    {
+        id:8,
+        year:2023,
+        userGain:95874,
+        userLost:1254,
+    },
+   
+]
